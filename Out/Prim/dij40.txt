@@ -1,0 +1,127 @@
+>>>>>>>>>> Prim's Algorithm <<<<<<<<<<
+
+//---------- MST ----------//
+Vertex 1:
+	>>> Predecessor: -1
+	>>> Edge value: 0
+Vertex 2:
+	>>> Predecessor: 9
+	>>> Edge value: 444
+Vertex 3:
+	>>> Predecessor: 1
+	>>> Edge value: 588
+Vertex 4:
+	>>> Predecessor: 3
+	>>> Edge value: 152
+Vertex 5:
+	>>> Predecessor: 4
+	>>> Edge value: 406
+Vertex 6:
+	>>> Predecessor: 2
+	>>> Edge value: 1258
+Vertex 7:
+	>>> Predecessor: 1
+	>>> Edge value: 166
+Vertex 8:
+	>>> Predecessor: 7
+	>>> Edge value: 33
+Vertex 9:
+	>>> Predecessor: 10
+	>>> Edge value: 60
+Vertex 10:
+	>>> Predecessor: 1
+	>>> Edge value: 1240
+Vertex 11:
+	>>> Predecessor: 13
+	>>> Edge value: 2592
+Vertex 12:
+	>>> Predecessor: 18
+	>>> Edge value: 1004
+Vertex 13:
+	>>> Predecessor: 14
+	>>> Edge value: 367
+Vertex 14:
+	>>> Predecessor: 32
+	>>> Edge value: 2097
+Vertex 15:
+	>>> Predecessor: 14
+	>>> Edge value: 439
+Vertex 16:
+	>>> Predecessor: 11
+	>>> Edge value: 664
+Vertex 17:
+	>>> Predecessor: 16
+	>>> Edge value: 255
+Vertex 18:
+	>>> Predecessor: 20
+	>>> Edge value: 230
+Vertex 19:
+	>>> Predecessor: 20
+	>>> Edge value: 128
+Vertex 20:
+	>>> Predecessor: 21
+	>>> Edge value: 122
+Vertex 21:
+	>>> Predecessor: 17
+	>>> Edge value: 363
+Vertex 22:
+	>>> Predecessor: 19
+	>>> Edge value: 644
+Vertex 23:
+	>>> Predecessor: 24
+	>>> Edge value: 379
+Vertex 24:
+	>>> Predecessor: 25
+	>>> Edge value: 583
+Vertex 25:
+	>>> Predecessor: 26
+	>>> Edge value: 118
+Vertex 26:
+	>>> Predecessor: 22
+	>>> Edge value: 678
+Vertex 27:
+	>>> Predecessor: 25
+	>>> Edge value: 380
+Vertex 28:
+	>>> Predecessor: 27
+	>>> Edge value: 512
+Vertex 29:
+	>>> Predecessor: 23
+	>>> Edge value: 648
+Vertex 30:
+	>>> Predecessor: 29
+	>>> Edge value: 1020
+Vertex 31:
+	>>> Predecessor: 5
+	>>> Edge value: 2821
+Vertex 32:
+	>>> Predecessor: 31
+	>>> Edge value: 180
+Vertex 33:
+	>>> Predecessor: 32
+	>>> Edge value: 150
+Vertex 34:
+	>>> Predecessor: 31
+	>>> Edge value: 800
+Vertex 35:
+	>>> Predecessor: 33
+	>>> Edge value: 720
+Vertex 36:
+	>>> Predecessor: 39
+	>>> Edge value: 509
+Vertex 37:
+	>>> Predecessor: 38
+	>>> Edge value: 685
+Vertex 38:
+	>>> Predecessor: 30
+	>>> Edge value: 1346
+Vertex 39:
+	>>> Predecessor: 40
+	>>> Edge value: 1238
+Vertex 40:
+	>>> Predecessor: 37
+	>>> Edge value: 596
+
+//--------------------------//
+
+Solution value: 26615

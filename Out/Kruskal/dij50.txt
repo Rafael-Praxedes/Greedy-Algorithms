@@ -1,0 +1,157 @@
+>>>>>>>>>> Kruskal's Algorithm <<<<<<<<<<
+
+//---------- MST ----------//
+Vertex 29:
+	>>> Predecessor: -1
+	>>> Edge value: 0
+Vertex 30:
+	>>> Predecessor: 29
+	>>> Edge value: 25
+Vertex 34:
+	>>> Predecessor: 35
+	>>> Edge value: 86
+Vertex 31:
+	>>> Predecessor: 14
+	>>> Edge value: 107
+Vertex 4:
+	>>> Predecessor: 2
+	>>> Edge value: 259
+Vertex 22:
+	>>> Predecessor: 12
+	>>> Edge value: 299
+Vertex 12:
+	>>> Predecessor: 21
+	>>> Edge value: 313
+Vertex 4:
+	>>> Predecessor: 5
+	>>> Edge value: 333
+Vertex 18:
+	>>> Predecessor: 16
+	>>> Edge value: 341
+Vertex 7:
+	>>> Predecessor: 6
+	>>> Edge value: 353
+Vertex 31:
+	>>> Predecessor: 32
+	>>> Edge value: 384
+Vertex 7:
+	>>> Predecessor: 8
+	>>> Edge value: 391
+Vertex 25:
+	>>> Predecessor: 26
+	>>> Edge value: 396
+Vertex 44:
+	>>> Predecessor: 47
+	>>> Edge value: 413
+Vertex 46:
+	>>> Predecessor: 45
+	>>> Edge value: 441
+Vertex 50:
+	>>> Predecessor: 48
+	>>> Edge value: 456
+Vertex 9:
+	>>> Predecessor: 8
+	>>> Edge value: 458
+Vertex 19:
+	>>> Predecessor: 20
+	>>> Edge value: 474
+Vertex 28:
+	>>> Predecessor: 27
+	>>> Edge value: 480
+Vertex 44:
+	>>> Predecessor: 43
+	>>> Edge value: 493
+Vertex 9:
+	>>> Predecessor: 10
+	>>> Edge value: 504
+Vertex 18:
+	>>> Predecessor: 20
+	>>> Edge value: 526
+Vertex 6:
+	>>> Predecessor: 4
+	>>> Edge value: 555
+Vertex 23:
+	>>> Predecessor: 20
+	>>> Edge value: 578
+Vertex 16:
+	>>> Predecessor: 22
+	>>> Edge value: 584
+Vertex 39:
+	>>> Predecessor: 42
+	>>> Edge value: 594
+Vertex 24:
+	>>> Predecessor: 27
+	>>> Edge value: 595
+Vertex 3:
+	>>> Predecessor: 5
+	>>> Edge value: 607
+Vertex 15:
+	>>> Predecessor: 12
+	>>> Edge value: 611
+Vertex 49:
+	>>> Predecessor: 47
+	>>> Edge value: 648
+Vertex 39:
+	>>> Predecessor: 41
+	>>> Edge value: 648
+Vertex 13:
+	>>> Predecessor: 32
+	>>> Edge value: 657
+Vertex 40:
+	>>> Predecessor: 37
+	>>> Edge value: 665
+Vertex 15:
+	>>> Predecessor: 17
+	>>> Edge value: 669
+Vertex 24:
+	>>> Predecessor: 23
+	>>> Edge value: 676
+Vertex 43:
+	>>> Predecessor: 42
+	>>> Edge value: 683
+Vertex 26:
+	>>> Predecessor: 29
+	>>> Edge value: 685
+Vertex 41:
+	>>> Predecessor: 36
+	>>> Edge value: 710
+Vertex 38:
+	>>> Predecessor: 40
+	>>> Edge value: 723
+Vertex 29:
+	>>> Predecessor: 24
+	>>> Edge value: 833
+Vertex 34:
+	>>> Predecessor: 31
+	>>> Edge value: 911
+Vertex 1:
+	>>> Predecessor: 12
+	>>> Edge value: 955
+Vertex 11:
+	>>> Predecessor: 13
+	>>> Edge value: 985
+Vertex 35:
+	>>> Predecessor: 37
+	>>> Edge value: 1008
+Vertex 13:
+	>>> Predecessor: 33
+	>>> Edge value: 1080
+Vertex 8:
+	>>> Predecessor: 25
+	>>> Edge value: 1121
+Vertex 49:
+	>>> Predecessor: 50
+	>>> Edge value: 1137
+Vertex 31:
+	>>> Predecessor: 15
+	>>> Edge value: 1218
+Vertex 48:
+	>>> Predecessor: 45
+	>>> Edge value: 1330
+Vertex 39:
+	>>> Predecessor: 37
+	>>> Edge value: 1426
+
+//--------------------------//
+
+Solution value: 30424
